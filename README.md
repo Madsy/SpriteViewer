@@ -21,12 +21,12 @@ Starting SpriteViewer without any options shows the usage:
 <pre><code>
 Usage:  [options] file
 Options:
-  -w <width>          Sprite width
-  -h <height>         Sprite height
-  -s <scale>          Sprite scale
-  -f <fps>            Animation frames per second
-  -i start:end        The start- and end sprite indices.
-  -t                  Enable tiling/repeat
+  -w <width>			Sprite width
+  -h <height>			Sprite height
+  -s <scale>			Sprite scale
+  -f <fps>				Animation frames per second
+  -i start:end			The start- and end sprite indices.
+  -t					Enable tiling/repeat
 </code></pre>
 
 Example #1: Given a spritemap with 32x32 sprites, show the first frame tiled in the X and Y directions.
